@@ -1,0 +1,12 @@
+﻿  源3.cpp
+E:\Users\Lenovo\source\repos\Opencv\Opencv\源3.cpp(115,15): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+E:\Users\Lenovo\source\repos\Opencv\Opencv\源3.cpp(116,15): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+E:\Users\Lenovo\source\repos\Opencv\Opencv\源3.cpp(140,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\Lenovo\source\repos\Opencv\Opencv\源3.cpp(143,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  源4.cpp
+  正在生成代码
+  Compiler switch has changed, fall back to full compilation.
+E:\Users\Lenovo\source\repos\Opencv\Opencv\源3.cpp(124): warning C4715: “SavePic”: 不是所有的控件路径都返回值
+  All 579 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Opencv.vcxproj -> E:\Users\Lenovo\source\repos\Opencv\x64\Release\Opencv.exe

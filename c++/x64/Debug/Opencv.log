@@ -1,0 +1,24 @@
+﻿  serdemo.cpp
+  biecaibaikuaierDem.cpp
+  YOLOv5.cpp
+  人脸检测2.cpp
+  性别年龄.cpp
+  源.cpp
+  源1.cpp
+  源2.cpp
+  源3.cpp
+E:\Users\Lenovo\source\repos\Opencv\Opencv\源3.cpp(112,15): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+E:\Users\Lenovo\source\repos\Opencv\Opencv\源3.cpp(113,15): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+E:\Users\Lenovo\source\repos\Opencv\Opencv\源3.cpp(137,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\Lenovo\source\repos\Opencv\Opencv\源3.cpp(140,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  视频对象检测.cpp
+  图片对象检测.cpp
+  单个图像识别.cpp
+  人脸检测.cpp
+  dlib特征点.cpp
+  一代人脸识别.cpp
+  二代人脸识别未完成版.cpp
+  YOLOv3.cpp
+  正在生成代码...
+E:\Users\Lenovo\source\repos\Opencv\Opencv\源3.cpp(121): warning C4715: “SavePic”: 不是所有的控件路径都返回值
+  Opencv.vcxproj -> E:\Users\Lenovo\source\repos\Opencv\x64\Debug\Opencv.exe
